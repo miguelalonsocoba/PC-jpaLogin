@@ -5,7 +5,7 @@ application.title = Login
 application.description = Prueba de concepto para el manejo de Autenticacion y Autorizacion
 application.version = 1.0.0
 
-spring.datasource.driver-class-name=org.postgresql.Driver
+spring.datasource.driver-class-name=com.postgresql.Driver
 spring.datasource.url=jdbc:postgresql://localhost:5432/basicLoginDB
 spring.datasource.username=postgres
 spring.datasource.password=admin

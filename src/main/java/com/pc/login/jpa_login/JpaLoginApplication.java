@@ -1,4 +1,4 @@
-package com.pc.login.jpaLogin;
+package com.pc.login.jpa_login;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
